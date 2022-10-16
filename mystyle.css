@@ -1,4 +1,4 @@
-@media screen and (min-width: 500px) {
+@media screen and (min-width: 800px) {
     #agenda {width: 100px; float: left; margin-right:50px;}
 }
 @font-face {
@@ -31,7 +31,6 @@ header {
     margin-right: auto;
 }
 body {
-    background-color: black;
     color: white;
 }
 h1 {
